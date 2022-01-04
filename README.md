@@ -64,6 +64,6 @@ Assemble all the components.
 - Slicing process - Ultimaker Cura
 ## :label:Source-3D files
 
-1.[Memo bowl base]()
+1.[Memo bowl base](https://github.com/JathujanMahendran/memo-bowl/tree/main/source/3d-files/characters)
 
-2.[Characters ]()
+2.[Characters ](https://github.com/JathujanMahendran/memo-bowl/blob/main/source/3d-files/memo-bowl-base.stl)
